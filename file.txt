@@ -1,0 +1,3 @@
+Belajar Git
+
+Ini adalah contoh file untuk belajar git. 
